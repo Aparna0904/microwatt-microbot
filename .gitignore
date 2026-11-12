@@ -1,0 +1,26 @@
+# Generated host test executables
+microbot_c_firmware_corrected/software/microbot_tests
+microbot_c_firmware_corrected/software/microbot_scenario1
+microbot_c_firmware_corrected/software/microbot_scenario2
+microbot_c_firmware_corrected/software/microbot_scenario3
+
+# Compiled files
+*.o
+*.a
+*.so
+*.elf
+*.bin
+*.bit
+*.vcd
+
+# Temporary source backups
+*.backup
+*.timeout_backup
+*.reverse_backup
+
+# Editor and operating-system temporary files
+*~
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
