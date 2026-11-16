@@ -284,3 +284,8 @@ No hardware register addresses will be guessed or introduced before the interfac
 **FPGA:** Digilent Arty A7-100T
 **Current milestone:** Phase 1 – C Firmware Host Validation
 **Latest observed result:** 187 passed, 0 failed
+
+## Project Documentation
+
+- [Complete MicroBot Implementation Plan (PDF)](../docs/MicroBot_Implementation_Plan.pdf)
+- [Phase 1: C Firmware Host Validation](PHASE1_C_FIRMWARE_HOST_VALIDATION.md)
